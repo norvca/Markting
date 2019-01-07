@@ -1,10 +1,7 @@
 # Markting
 We are born to market
 
-## Progress
-https://github.com/norvca/Markting/issues
+## [Progress](https://github.com/norvca/Markting/issues)
 
+## [Scraping](./Scraping/scraping.md)
 
-## Data
-- https://www.zhihu.com/question/36132174/answer/70798699
-- https://www.zhihu.com/question/36132174/answer/257465933
